@@ -7,9 +7,4 @@
 
    但是带括号的括号内先运算的部分还没有完成。
 
-   下面就是计算器运行之后的界面：
-
-
-   ![Calculator](http://oyqo0q1a2.bkt.clouddn.com/Calculator.png)
-
 </font>
